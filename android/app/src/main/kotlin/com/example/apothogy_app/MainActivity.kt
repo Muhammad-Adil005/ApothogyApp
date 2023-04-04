@@ -1,0 +1,6 @@
+package com.example.apothogy_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
